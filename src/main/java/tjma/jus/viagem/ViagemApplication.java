@@ -8,5 +8,6 @@ public class ViagemApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ViagemApplication.class, args);
+        System.out.println();
     }
 }
